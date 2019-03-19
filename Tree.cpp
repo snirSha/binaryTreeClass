@@ -189,7 +189,7 @@ int Tree::findSmallestPrivate(node* ptr)
 	}
 }
 
-void Tree::Remove(int key)
+void Tree::remove(int key)
 {
 	removePrivate(key, _root);
 }
