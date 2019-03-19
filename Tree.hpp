@@ -37,7 +37,6 @@ public:
 	int findSmallest();
 	void remove(int key);
 	bool contains(int key);
-	int size();//to be continue.....
 	int left(int key);
 	int right(int key);
 	int parent (int key);
