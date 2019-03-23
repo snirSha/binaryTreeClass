@@ -489,7 +489,7 @@ int Tree::sizePrivate(node* ptr)
 	}
 	else
 	{
-		return (sizePrivate(ptr->left) + 1 + sizePrivate(ptr->left));
+		return (sizePrivate(ptr->left) + 1 + sizePrivate(ptr->right));
 	}
 }
 //////////////////////////////////////////////////////////
