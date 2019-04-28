@@ -2,9 +2,9 @@
 
 ## Authors:
 
-Amir Hoshen 305151292
+Amir Hoshen 
 
-Snir Shaharabani  204040687
+Snir Shaharabani  
 
 ## About the Class:
 
