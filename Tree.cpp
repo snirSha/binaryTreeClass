@@ -1,12 +1,10 @@
 #include<iostream>
-#include<cstdlib>
+#include<stdlib>
 
 #include"Tree.hpp"
 
 using namespace std;
 using namespace ariel;
-
-
 
 Tree::Tree()
 {
