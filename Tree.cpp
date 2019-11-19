@@ -6,8 +6,6 @@
 using namespace std;
 using namespace ariel;
 
-
-
 Tree::Tree()
 {
 	_root = NULL;
